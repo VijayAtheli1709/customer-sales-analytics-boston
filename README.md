@@ -1,4 +1,3 @@
-# Customer and Sales Analytics for a U.S. Retailer
 ## Profitability and Customer Satisfaction Analysis – Boston Metro Area
 
 ## Project Overview
