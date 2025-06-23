@@ -1,7 +1,7 @@
 ## Profitability and Customer Satisfaction Analysis – Boston Metro Area
 Driving Retail Profitability Through Customer, Sales, and Store Data Analysis in the Boston Metro Area
 
-*A comprehensive data analytics project exploring customer purchasing patterns, seasonal sales trends, and store-level performance across a multi-store apparel retailer. This analysis integrates statistical modeling, regression analysis, and visual storytelling to uncover actionable insights that improve profitability and business strategy.*
+***A comprehensive data analytics project exploring customer purchasing patterns, seasonal sales trends, and store-level performance across a multi-store apparel retailer. This analysis integrates statistical modeling, regression analysis, and visual storytelling to uncover actionable insights that improve profitability and business strategy.***
 ---
 ## Project Overview
 This project analyzes customer, sales, and store data for a U.S. retailer specializing in apparel and accessories, focusing on four store locations in the Boston metro area. The analysis was conducted to understand purchasing patterns, profitability trends, seasonal impacts, and key drivers of gross margins, with the goal of providing actionable business recommendations.
